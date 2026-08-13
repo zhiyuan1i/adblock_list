@@ -62,4 +62,4 @@ https://adblockplus.org/zh_CN/subscriptions
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=uniartisan/adblock_list&type=Timeline)](https://star-history.com/#uniartisan/adblock_list&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=uniartisan/adblock_list&type=Timeline)](https://star-history.dera.page/#uniartisan/adblock_list&Timeline)
